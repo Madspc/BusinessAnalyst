@@ -2,7 +2,7 @@
 
 ## Power BI Dashboard – Insurance Portfolio Analysis
 
-![Power BI Dashboard](dashboard_powerbi.png)
+![Power BI Dashboard](PARTE_UNO.png)
 
 ### Descripción
 Dashboard interactivo desarrollado en Power BI para el análisis del portafolio de una empresa de seguros. 
